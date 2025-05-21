@@ -1,4 +1,9 @@
 # Preimage Approximation for Neural Networks
+Fork of the https://github.com/Zhang-Xiyue/PreimageApproxForNNs repository containing the code for the paper "Provable Preimage Under-Approximation for Neural Networks" by Xiyue Zhang, Benjie Wang, and Marta Kwiatkowska (and also of the paper listed below).
+This fork adds a Dockerfile for easier installation and adds support for quantitative verification of ACAS Xu networks.
+
+---
+
 This repository contains the code and data used in the paper:
 
 "PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks"
